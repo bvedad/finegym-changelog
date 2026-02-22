@@ -11,20 +11,20 @@ export default function Header() {
         </Link>
         <nav className="flex items-center gap-6">
           <Link
-            href="https://finegym.app"
+            href="https://finegym.io"
             className="text-sm text-gray-600 hover:text-gray-900"
           >
             Website
           </Link>
           <Link
-            href="https://docs.finegym.app"
+            href="https://docs.finegym.io"
             className="text-sm text-gray-600 hover:text-gray-900"
           >
             Docs
           </Link>
           <Link
             href="https://app.finegym.io"
-            className="rounded-md bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700"
+            className="rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
           >
             Go to App
           </Link>
