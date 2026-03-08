@@ -14,6 +14,19 @@ export const metadata: Metadata = {
     description:
       'Stay up to date with the latest features, improvements, and updates to Finegym.',
     type: 'website',
+    url: 'https://changelog.finegym.io',
+    siteName: 'Finegym Changelog',
+    images: [
+      {
+        url: 'https://changelog.finegym.io/logo.svg',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary',
+    title: "What's new in Finegym",
+    description:
+      'Stay up to date with the latest features, improvements, and updates to Finegym.',
   },
 };
 

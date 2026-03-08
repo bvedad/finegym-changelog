@@ -26,9 +26,29 @@ export async function generateMetadata({
   const entry = await getEntryBySlug(slug);
   if (!entry) return {};
 
+  const title = `${entry.title} - Finegym Changelog`;
+  const description = `${entry.title} - released on ${formatDate(entry.date)}`;
+
   return {
-    title: `${entry.title} - Finegym Changelog`,
-    description: `${entry.title} - released on ${formatDate(entry.date)}`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      type: 'article',
+      url: `https://changelog.finegym.io/posts/${slug}`,
+      siteName: 'Finegym Changelog',
+      images: [
+        {
+          url: 'https://changelog.finegym.io/logo.svg',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary',
+      title,
+      description,
+    },
   };
 }
 
