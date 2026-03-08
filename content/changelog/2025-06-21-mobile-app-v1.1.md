@@ -1,5 +1,5 @@
 ---
-title: "Mobile App v1.1: Discount Codes & App Store Reviews"
+title: "Mobile App v1.1: Discounts & Reviews"
 date: "2025-06-21"
 categories: ["Mobile", "Payments"]
 ---

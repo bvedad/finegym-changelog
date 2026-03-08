@@ -27,7 +27,17 @@ export async function generateMetadata({
   if (!entry) return {};
 
   const title = `${entry.title} - Finegym Changelog`;
-  const description = `${entry.title} - released on ${formatDate(entry.date)}`;
+  
+  const textContent = entry.contentHtml.replace(/<[^>]*>/g, '');
+  const maxLength = 150;
+  let description = textContent.slice(0, maxLength);
+  if (textContent.length > maxLength) {
+    const lastSpaceIndex = description.lastIndexOf(' ');
+    if (lastSpaceIndex > 0) {
+      description = description.slice(0, lastSpaceIndex);
+    }
+    description += '...';
+  }
 
   return {
     title,
