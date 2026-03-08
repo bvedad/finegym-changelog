@@ -11,7 +11,7 @@ export default function Header() {
         </Link>
         <nav className="flex items-center gap-6">
           <Link
-            href="https://finegym.io"
+            href="https://www.finegym.io"
             className="text-sm text-gray-600 hover:text-gray-900"
           >
             Website
