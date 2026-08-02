@@ -11,4 +11,4 @@ You can now design and print physical check-in cards for your members. Cards are
 - **Layout options** — Landscape or portrait, with an optional member PIN
 - **Live preview** — See the card at its true printed size before printing, then print one member from their profile or many at once from the Members list
 
-For more details, see the [Member Cards guide](https://docs.finegym.io/admin/member-cards).
+For more details, see the [Member Cards guide](https://docs.finegym.io/admin/settings/member-cards).
