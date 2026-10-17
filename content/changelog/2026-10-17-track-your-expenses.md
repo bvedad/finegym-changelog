@@ -14,6 +14,6 @@ Finegym already knows what comes in. Now it can hold what goes out too: rent, su
 
 **Staff pay straight from payroll.** On a closed pay period, **Record as expenses** adds each person's pay as a Staff pay expense. Pay is never counted twice, even if you reopen the period.
 
-Six categories to start with, in your language, and you can add, rename or archive your own. Expenses are on the Starter plan and up, for staff with the new **Expenses** permission.
+Six categories to start with, in your language, and you can add, rename or archive your own. Expenses are on every plan, Free included, for staff with the new **Expenses** permission.
 
 Read more in the [expenses guide](https://docs.finegym.io/admin/expenses).
