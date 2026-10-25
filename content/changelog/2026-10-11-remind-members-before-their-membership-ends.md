@@ -10,6 +10,6 @@ A membership that quietly runs out is a member you have to win back. Finegym now
 
 **Your number of days.** Change how far ahead the reminder goes under **Settings → General → Member retention**, anywhere from 1 to 90 days. The wording, the send time and the on/off switch are under **Settings → Email Templates → Membership Expiring Soon**, like every other email.
 
-**Nobody is nagged.** Memberships shorter than two weeks, such as trials, get no reminder, and neither do cancelled or frozen memberships.
+**Nobody is nagged.** Memberships shorter than two weeks, such as trials, get no reminder, and neither do canceled or frozen memberships.
 
 Read more in the [general settings guide](https://docs.finegym.io/admin/settings/general-settings#membership-expiring-soon-reminder).

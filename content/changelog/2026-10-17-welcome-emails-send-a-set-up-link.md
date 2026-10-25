@@ -12,6 +12,6 @@ Finegym no longer emails anyone a password. New members and new staff now get a 
 
 **See who hasn't set up yet.** The **Login access** section on member and staff profiles shows whether the person has set up their account, and **Send setup link** emails them a fresh link. A password someone already chose keeps working until they use the new link, so nobody is locked out.
 
-**Old passwords removed.** Passwords that earlier welcome emails carried are blanked out of the communication history, and welcome emails you customised now carry the set-up link.
+**Old passwords removed.** Passwords that earlier welcome emails carried are blanked out of the communication history, and welcome emails you customized now carry the set-up link.
 
 Read more in the [members guide](https://docs.finegym.io/admin/members-adding#login-access).

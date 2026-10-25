@@ -8,7 +8,7 @@ A variable your email template doesn't have, whether mistyped or translated by t
 
 **Mistakes are caught when you save.** Finegym checks every variable in the subject, content and SMS against the template's own list. It names any it doesn't know, so you can correct it before an email goes out.
 
-**Payment and online-class emails can be customised again.** Their default text leaves a line out when there's nothing to show, such as the amount still due or the join link, using `{% if %}`. Saving your own version refused that, so these emails couldn't be changed. You can now use `{% if %}` in your own templates too.
+**Payment and online-class emails can be customized again.** Their default text leaves a line out when there's nothing to show, such as the amount still due or the join link, using `{% if %}`. Saving your own version refused that, so these emails couldn't be changed. You can now use `{% if %}` in your own templates too.
 
 **Your browser no longer translates the editor.** With Edge or Chrome translating the dashboard, the text in the editor was translated too, variables included, and that's what got saved. The editor now stays exactly as you write it.
 

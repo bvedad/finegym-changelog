@@ -13,6 +13,6 @@ An email address saved with capital letters, such as `Jane+Sandy@gmail.com`, did
 **Smaller fixes:**
 - Saving your profile with your own email in different capitals no longer asks for your password.
 - Editing a colleague's details no longer shows "Only the account owner can change email addresses" when the email didn't actually change.
-- A parent listed as a child's guardian with a differently capitalised email now gets one copy of a group email, not two.
+- A parent listed as a child's guardian with a differently capitalized email now gets one copy of a group email, not two.
 
 Read more in the [import guide](https://docs.finegym.io/admin/data-migration-import#troubleshooting).

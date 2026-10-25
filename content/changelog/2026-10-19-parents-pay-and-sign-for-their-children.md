@@ -12,7 +12,7 @@ A child added as a dependent has no login of their own, so until now a parent co
 
 **Sign their documents.** A parent reads the child's copy, filled in with the child's details, and signs it for them. The signature is stored on the child and records who signed: your staff see **Signed by** and the parent's name, and the signed PDF says it was signed on the child's behalf.
 
-**Follow their memberships.** A parent sees each child's plans and what's left on them. Buying and cancelling stay with the plan's holder and with you.
+**Follow their memberships.** A parent sees each child's plans and what's left on them. Buying and canceling stay with the plan's holder and with you.
 
 Siblings who share their mother's email no longer need a second address: one profile keeps the email and manages the family, and the others are added as dependents.
 

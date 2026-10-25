@@ -4,7 +4,7 @@ date: "2026-09-04"
 categories: ["Scheduling", "Admin", "Mobile"]
 ---
 
-A full class used to be a dead end. Members who wanted in had to keep checking back, and when someone cancelled, the freed spot usually went unnoticed — so classes ran with empty places while people would happily have taken them.
+A full class used to be a dead end. Members who wanted in had to keep checking back, and when someone canceled, the freed spot usually went unnoticed — so classes ran with empty places while people would happily have taken them.
 
 Now they can queue. **Any class type with an attendance limit gets a waitlist automatically** — there is nothing to switch on.
 

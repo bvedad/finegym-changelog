@@ -10,6 +10,6 @@ Since check-out went away, a second scan at the door — a member leaving, or a 
 
 **A mistaken check-in can be deleted.** Wrong member, duplicate scan, a test at the desk — open the row's **⋯** menu on the **Check-Ins** page or on the member's **Attendance** tab and choose **Delete check-in**. The visit no longer counts, a limited plan gets the session back, and a class booking behind the check-in stays in place, so the right person can be checked in straight away. The removal shows in the member's activity, with who did it.
 
-Nothing changes for bookings: a class or appointment reserved by mistake is still cancelled with **Cancel reservation**.
+Nothing changes for bookings: a class or appointment reserved by mistake is still canceled with **Cancel reservation**.
 
 Read more in the [check-in guide](https://docs.finegym.io/admin/check-in-methods#check-in-validation-rules).
