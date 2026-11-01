@@ -9,4 +9,4 @@ You can now customize how invoices and receipts appear for your members from **S
 - **Custom document title** — Replace the default "Invoice" / "Receipt" heading with your own title
 - **Show/hide invoice number** — Control whether the invoice number is displayed on documents
 
-For more details, see the [Invoice Settings guide](https://docs.finegym.io/admin/settings/invoice-settings).
+For more details, see the [Invoice Settings guide](https://docs.finegym.io/payments/invoice-and-receipt-settings).

@@ -12,4 +12,4 @@ What you owe your team no longer lives in a spreadsheet next to Finegym. Give ea
 
 **Close the period once it is settled.** Closing freezes the numbers exactly as shown, so a rate changed next week or a corrected class no longer moves what you already paid out. Reopen it at any time to compute live again, and **Export CSV** hands the period to your accountant.
 
-Read more in the [staff pay rates guide](https://docs.finegym.io/admin/staff-pay-rates).
+Read more in the [staff pay rates guide](https://docs.finegym.io/money-out/staff-pay-and-payroll).

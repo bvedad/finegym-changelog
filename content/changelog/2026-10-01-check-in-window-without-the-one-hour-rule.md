@@ -10,4 +10,4 @@ When staff clicked **Check in**, the result depended on the clock. A member with
 
 **The kiosk chooses nothing for the member.** A booking starting within the hour is no longer preselected, and neither is a class the member has just reserved: it appears under **Booked sessions**, where they tap it and confirm. A member who reserves tonight's class at midday can no longer check in to it with a single tap.
 
-Read more in the [check-in guide](https://docs.finegym.io/admin/check-in-methods#choosing-what-to-check-in-to).
+Read more in the [check-in guide](https://docs.finegym.io/front-desk/check-members-in).

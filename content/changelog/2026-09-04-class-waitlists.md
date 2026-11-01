@@ -18,4 +18,4 @@ One detail worth knowing: a member's membership is checked when a spot opens, no
 
 All four waitlist emails — joined, booked in, passed over, removed — can be edited or switched off in **Settings → Email Templates**.
 
-Read more in the [class reservations guide](https://docs.finegym.io/admin/class-reservations#waitlists).
+Read more in the [class reservations guide](https://docs.finegym.io/schedule/bookings-and-waitlists#how-the-waitlist-works).

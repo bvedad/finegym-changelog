@@ -20,4 +20,4 @@ The whole thing is **translated into English, Bosnian, Spanish and Portuguese**,
 
 **Nothing to switch on.** Every gym already has the site; the members' area is simply there now. Share `https://<your-gym>.sites.finegym.io` with your members, or let the invoice emails do it for you.
 
-Read more in the [gym website guide](https://docs.finegym.io/admin/settings/embed-widgets).
+Read more in the [gym website guide](https://docs.finegym.io/settings/embed-widgets).

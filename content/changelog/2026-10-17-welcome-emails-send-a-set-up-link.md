@@ -14,4 +14,4 @@ Finegym no longer emails anyone a password. New members and new staff now get a 
 
 **Old passwords removed.** Passwords that earlier welcome emails carried are blanked out of the communication history, and welcome emails you customized now carry the set-up link.
 
-Read more in the [members guide](https://docs.finegym.io/admin/members-adding#login-access).
+Read more in the [members guide](https://docs.finegym.io/members/give-members-app-access).

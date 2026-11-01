@@ -15,4 +15,4 @@ Now you can just take the money. When creating an invoice, turn on **Check out a
 
 Since there's no email address on file, no receipt is sent automatically — download the receipt PDF if your customer wants one.
 
-Read more in the [invoices guide](https://docs.finegym.io/admin/invoices#walk-in-guest-sales).
+Read more in the [invoices guide](https://docs.finegym.io/payments/how-invoices-work).

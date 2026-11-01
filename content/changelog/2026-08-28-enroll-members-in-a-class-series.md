@@ -17,4 +17,4 @@ Members get **one summary email** listing the classes they were added to — not
 
 There's a matching **Remove from series** action to take members out of every occurrence at once (with its own summary email).
 
-Read more in the [class reservations guide](https://docs.finegym.io/admin/class-reservations#enrolling-a-member-in-a-whole-series).
+Read more in the [class reservations guide](https://docs.finegym.io/schedule/enroll-in-a-series).

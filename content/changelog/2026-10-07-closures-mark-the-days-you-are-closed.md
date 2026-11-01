@@ -12,4 +12,4 @@ Public holidays, a renovation week, a day off: until now the only way to stop bo
 
 **Classes already on those days are yours to clear.** A closure never deletes anything by itself. The Closures page shows how many upcoming classes and appointments still sit on each closure's days: **Delete them** opens bulk delete with the dates filled in, and **View them** takes you to the appointments so you can cancel each one with the member told as usual.
 
-Read more in the [closures guide](https://docs.finegym.io/admin/settings/closures).
+Read more in the [closures guide](https://docs.finegym.io/schedule/closures-and-holidays).

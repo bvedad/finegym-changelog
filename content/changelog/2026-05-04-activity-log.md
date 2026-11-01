@@ -13,4 +13,4 @@ A new **Activity Log** page lets you track all actions across your gym, providin
 
 Find the Activity Log under **Settings > Activity Log**.
 
-[Read the full guide →](https://docs.finegym.io/admin/settings/activity-log)
+[Read the full guide →](https://docs.finegym.io/settings/activity-log)

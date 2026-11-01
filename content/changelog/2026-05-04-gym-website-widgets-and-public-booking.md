@@ -15,4 +15,4 @@ Embed membership checkout, class booking, and signup forms directly on your gym 
 
 Configure widgets under **Settings > Embed Widgets**.
 
-[Read the full setup guide →](https://docs.finegym.io/admin/settings/embed-widgets)
+[Read the full setup guide →](https://docs.finegym.io/settings/embed-widgets)

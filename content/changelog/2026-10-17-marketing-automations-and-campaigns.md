@@ -14,4 +14,4 @@ Reach the right members at the right moment, by email, text message or app notif
 
 **Respectful by default.** Every marketing email carries an unsubscribe link, and texts go only to members who said yes to them. Automations never send a member more than your weekly limit of messages, and no text or app notification goes out between 21:00 and 8:00 in your gym's time zone.
 
-Read more in the [automations guide](https://docs.finegym.io/admin/marketing-automations) and the [campaigns guide](https://docs.finegym.io/admin/marketing-campaigns).
+Read more in the [automations guide](https://docs.finegym.io/marketing/automations) and the [campaigns guide](https://docs.finegym.io/marketing/campaigns).

@@ -18,4 +18,4 @@ Frontdesk mode used to do one thing: scan a code, record a visit. A member who c
 
 Also fixed: signing a document for a member from their profile works again.
 
-Read more in the [front desk kiosk guide](https://docs.finegym.io/admin/frontdesk-kiosk).
+Read more in the [front desk kiosk guide](https://docs.finegym.io/front-desk/front-desk-mode).

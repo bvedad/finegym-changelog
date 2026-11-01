@@ -10,4 +10,4 @@ You can now choose a default language for your gym. New members and staff inheri
 - **Per-person override** — Each member and staff member can still use their own language; leave theirs on **Gym default** to follow the gym setting
 - **Consistent everywhere** — Invoices and their attached PDFs now render in the recipient's resolved language
 
-Read more in the [general settings guide](https://docs.finegym.io/admin/settings/general-settings#default-language).
+Read more in the [general settings guide](https://docs.finegym.io/settings/business-details-and-time-zone#change-your-business-details).

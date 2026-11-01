@@ -10,4 +10,4 @@ Put your most popular plan first. Members now see your plans in the order you ch
 
 **New plans start at the top.** Until you change the order, plans are listed newest first, so open **Change order** again after creating a plan to put it where it belongs.
 
-Read more in the [membership plans guide](https://docs.finegym.io/admin/membership-plan-types#changing-the-order-of-your-plans).
+Read more in the [membership plans guide](https://docs.finegym.io/memberships/membership-plan-types).

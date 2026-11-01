@@ -22,4 +22,4 @@ Now a membership can simply be **shared with family**.
 
 Nothing to migrate: existing members and plans are untouched until you switch **Shareable with family** on.
 
-Read more in the [family memberships guide](https://docs.finegym.io/admin/families).
+Read more in the [family memberships guide](https://docs.finegym.io/members/families-and-dependents).

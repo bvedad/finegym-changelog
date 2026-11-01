@@ -12,4 +12,4 @@ Coaches run their lives from a calendar app, and Finegym wasn't in it. Now it is
 
 **Busy in Google means not bookable in Finegym.** Connect your Google Calendar on the same page and the times you're busy there are taken out of your appointment availability within five minutes, so a member can't book you while you're at the dentist. Finegym reads only whether you're free or busy, never what your events are, and shows which Google account you connected so there's no guessing. Classes are a fixed timetable and aren't changed by your calendar; for those, delete the class or add a closure.
 
-Read more in the [calendar sync guide](https://docs.finegym.io/admin/calendar-feed).
+Read more in the [calendar sync guide](https://docs.finegym.io/schedule/sync-your-calendar).

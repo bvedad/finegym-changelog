@@ -16,4 +16,4 @@ Finegym already knows what comes in. Now it can hold what goes out too: rent, su
 
 Six categories to start with, in your language, and you can add, rename or archive your own. Expenses are on every plan, Free included, for staff with the new **Expenses** permission.
 
-Read more in the [expenses guide](https://docs.finegym.io/admin/expenses).
+Read more in the [expenses guide](https://docs.finegym.io/money-out/track-expenses).

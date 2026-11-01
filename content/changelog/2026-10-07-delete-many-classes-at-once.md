@@ -12,4 +12,4 @@ Classes could only be deleted one at a time. A repeating class created twice by 
 
 **Members are looked after.** Bookings on deleted classes are canceled the way staff would cancel them, so visits go back on the member's membership and waitlist entries are removed. Tick **Email and text members whose bookings are canceled** to tell each of them automatically. Classes with recorded attendance are kept, so your attendance history stays intact; Finegym tells you how many it kept.
 
-Read more in the [bulk deleting classes guide](https://docs.finegym.io/admin/bulk-deleting-classes).
+Read more in the [bulk deleting classes guide](https://docs.finegym.io/schedule/delete-classes).

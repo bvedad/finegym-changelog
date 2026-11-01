@@ -14,4 +14,4 @@ Collect details such as an emergency contact or medical needs straight from your
 
 **Only staff see the answers**, in the Custom Fields section of the member's profile. The Finegym app doesn't ask these questions yet; members answer them on your gym site.
 
-Read more in the [custom fields guide](https://docs.finegym.io/admin/settings/custom-fields#questions-members-answer).
+Read more in the [custom fields guide](https://docs.finegym.io/members/ask-members-questions).
