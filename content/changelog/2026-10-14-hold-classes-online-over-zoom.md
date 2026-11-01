@@ -14,4 +14,4 @@ Your schedule no longer stops at the gym door. Connect Zoom once, and classes ca
 
 **Connected in minutes.** Create a small Server-to-Server app in your own Zoom account — no Zoom review, it works immediately — and paste its three credentials under **Settings → Integrations → Zoom**.
 
-Read more in the [Zoom integration guide](https://docs.finegym.io/admin/settings/integrations/zoom-integration).
+Read more in the [Zoom integration guide](https://docs.finegym.io/schedule/online-classes-with-zoom).

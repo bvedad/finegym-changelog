@@ -12,4 +12,4 @@ You can now showcase your classes and appointment types with more than one photo
 
 Add images under **Schedule → Class Types** or **Appointments → Appointment Types** when creating or editing a type.
 
-Read more in the [class types guide](https://docs.finegym.io/admin/class-types).
+Read more in the [class types guide](https://docs.finegym.io/schedule/create-class-types).

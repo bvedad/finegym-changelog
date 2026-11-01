@@ -11,4 +11,4 @@ You can now change the time or coach of many upcoming classes at once, instead o
 - **Change time or coach** — Move classes to a new start/end time, reassign the coach, or remove the coach entirely
 - **Past classes protected** — Past and already-started classes are never affected, and reservations move with the class automatically
 
-For more details, see the [Bulk Editing Classes guide](https://docs.finegym.io/admin/bulk-editing-classes).
+For more details, see the [Bulk Editing Classes guide](https://docs.finegym.io/schedule/edit-classes).

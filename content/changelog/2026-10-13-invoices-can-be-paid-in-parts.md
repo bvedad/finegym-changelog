@@ -14,4 +14,4 @@ A member who brings half of what they owe no longer leaves you choosing between 
 
 **See who still owes you.** The new **Outstanding Balances** report under **Reports** lists everyone with money left to pay, how much, and since when, with a CSV export. The invoice list has a **Partially paid** filter and an **Amount due** column, and receipts and payment emails tell the member what is still due.
 
-Read more in the [partial payments guide](https://docs.finegym.io/admin/partial-payments).
+Read more in the [partial payments guide](https://docs.finegym.io/payments/take-a-payment).

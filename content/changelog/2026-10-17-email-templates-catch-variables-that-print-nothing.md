@@ -14,4 +14,4 @@ A variable your email template doesn't have, whether mistyped or translated by t
 
 **Smaller fix:** two default SMS texts were a few characters over the 160-character limit, which also stopped them from being saved. They're shorter now.
 
-Read more in the [email templates guide](https://docs.finegym.io/admin/settings/email-templates#template-variables).
+Read more in the [email templates guide](https://docs.finegym.io/settings/email-templates#write-your-own-text).

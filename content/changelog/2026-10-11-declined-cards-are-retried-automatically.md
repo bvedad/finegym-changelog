@@ -14,4 +14,4 @@ A declined card used to mean one email and a lost payment unless someone chased 
 
 **No new bookings until it is paid.** When every retry fails, the member gets a final email with a link to pay online, and the membership can no longer be used for new classes, appointments or open-gym check-ins. Bookings already made are kept. With Kisi, the membership's doors close too. The block lifts by itself, doors included, the moment the invoice is paid, or when you write it off as uncollectible. Prefer it stricter or off? Choose **After the first decline** or **Never** under **Block new bookings**.
 
-Read more in the [payments guide](https://docs.finegym.io/admin/payments-transactions#declined-cards-and-automatic-retries).
+Read more in the [payments guide](https://docs.finegym.io/payments/transactions).

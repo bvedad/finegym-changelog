@@ -12,4 +12,4 @@ Since check-out went away, a second scan at the door — a member leaving, or a 
 
 Nothing changes for bookings: a class or appointment reserved by mistake is still canceled with **Cancel reservation**.
 
-Read more in the [check-in guide](https://docs.finegym.io/admin/check-in-methods#check-in-validation-rules).
+Read more in the [check-in guide](https://docs.finegym.io/front-desk/check-members-in).

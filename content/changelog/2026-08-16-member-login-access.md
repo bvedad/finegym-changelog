@@ -11,4 +11,4 @@ Helping a member who can't sign in is now a two-click job. The member's **Profil
 
 Both live under **Member Profile → Profile → Login access**.
 
-Read more in the [managing members guide](https://docs.finegym.io/admin/members-adding#login-access).
+Read more in the [managing members guide](https://docs.finegym.io/members/give-members-app-access).

@@ -12,4 +12,4 @@ Two members on similar plans could see different classes in the **Check in to** 
 
 **The kiosk stays simple.** Members checking themselves in still see only the classes they can book.
 
-Read more in the [check-in guide](https://docs.finegym.io/admin/check-in-methods#classes-the-members-plans-dont-include).
+Read more in the [check-in guide](https://docs.finegym.io/front-desk/check-members-in).

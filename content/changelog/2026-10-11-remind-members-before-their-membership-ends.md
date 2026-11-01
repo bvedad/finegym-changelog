@@ -12,4 +12,4 @@ A membership that quietly runs out is a member you have to win back. Finegym now
 
 **Nobody is nagged.** Memberships shorter than two weeks, such as trials, get no reminder, and neither do canceled or frozen memberships.
 
-Read more in the [general settings guide](https://docs.finegym.io/admin/settings/general-settings#membership-expiring-soon-reminder).
+Read more in the [general settings guide](https://docs.finegym.io/settings/business-details-and-time-zone).

@@ -16,4 +16,4 @@ A child added as a dependent has no login of their own, so until now a parent co
 
 Siblings who share their mother's email no longer need a second address: one profile keeps the email and manages the family, and the others are added as dependents.
 
-Read more in the [family memberships guide](https://docs.finegym.io/admin/families).
+Read more in the [family memberships guide](https://docs.finegym.io/members/families-and-dependents).
