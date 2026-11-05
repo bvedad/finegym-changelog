@@ -26,7 +26,8 @@ src/
   components/         # ChangelogEntry, ChangelogList, CategoryFilter, Header
   lib/changelog.ts    # Markdown processing logic
 scripts/
-  generate-latest-json.mjs  # Pre-build: generates public/latest.json
+  generate-latest-json.mjs  # Pre-build: public/latest.json (newest date + the three newest entries, for the admin's What's new)
+  generate-feed.mjs         # Pre-build: public/feed.xml (RSS, the 30 newest entries)
 ```
 
 ## Content Conventions
@@ -43,6 +44,6 @@ scripts/
 
 ## Build Pipeline
 
-1. `prebuild`: Generates `public/latest.json` with most recent changelog date
+1. `prebuild`: Generates `public/latest.json` (newest date, three newest entries) and `public/feed.xml` (RSS)
 2. `build`: Next.js static export to `/out`
 3. `postbuild`: Generates sitemap.xml and robots.txt
