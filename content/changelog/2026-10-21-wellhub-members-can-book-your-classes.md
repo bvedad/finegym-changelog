@@ -12,4 +12,4 @@ Gyms that partner with Wellhub (formerly Gympass) managed those visits by hand: 
 
 **You are paid without lifting a finger.** Wellhub pays for validated visits. The moment a member checks in on the Wellhub app, Finegym validates the visit and marks them present on their booking. Prefer to confirm visits yourself? Switch automatic validation off, and the visit is validated when staff mark the member present. The attendee list shows how far each Wellhub booking got, from booked to validated, with the reason when something went wrong.
 
-Read more in the [Wellhub integration guide](https://docs.finegym.io/admin/settings/integrations/wellhub).
+Read more in the [Wellhub integration guide](https://docs.finegym.io/integrations/wellhub).
