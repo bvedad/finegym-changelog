@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: "What's new in Finegym",
   description:
     'Stay up to date with the latest features, improvements, and updates to Finegym.',
+  alternates: {
+    types: { 'application/rss+xml': 'https://changelog.finegym.io/feed.xml' },
+  },
   openGraph: {
     title: "What's new in Finegym",
     description:
@@ -42,7 +45,10 @@ export default function RootLayout({
         {children}
         <footer className="border-t border-gray-200 py-8">
           <div className="mx-auto max-w-4xl px-6 text-center text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} Finegym. All rights reserved.
+            &copy; {new Date().getFullYear()} Finegym. All rights reserved.{' '}
+            <a href="/feed.xml" className="underline hover:text-gray-700">
+              RSS feed
+            </a>
           </div>
         </footer>
       </body>
