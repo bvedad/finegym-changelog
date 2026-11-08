@@ -1,7 +1,7 @@
 ---
 title: "The Free Plan Covers up to 50 Active Members"
 date: "2026-11-10"
-categories: ["Plans"]
+categories: ["Admin", "Payments"]
 ---
 
 The Free plan now covers **up to 50 active members**. Everything else about it is unchanged: all core features, unlimited staff accounts, no card and no expiry.
@@ -12,4 +12,4 @@ The Free plan now covers **up to 50 active members**. Everything else about it i
 
 **If you are over 50 today.** Your members keep working as before, and we've emailed you with a month of Starter so you can move without a gap. Starter and Growth have no member limit.
 
-Read more in [Plans](https://docs.finegym.io/settings/plans).
+Read more in [Plans](https://docs.finegym.io/getting-started/finegym-plans-and-billing).
