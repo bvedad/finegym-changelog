@@ -15,6 +15,6 @@ Until now, direct debit started with you: staff sent a member the link. Now your
 **Also in this release**
 
 - The **Transactions** report lists direct debit on a row of its own under **Payment methods**, named by its scheme (such as **ACH Direct Debit**), instead of counting it with cards.
-- The member app gets this with its next update.
+- In the member app from version 1.20.0, on the App Store and Google Play.
 
 Read more in [Accept direct debit payments](https://docs.finegym.io/payments/accept-direct-debit-payments) and, for your members, [Pay by direct debit](https://docs.finegym.io/for-members/pay-by-direct-debit).
